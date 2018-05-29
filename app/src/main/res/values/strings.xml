@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Androidsiopa</string>
+    <string name="slogan">Making life easier.</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="forgot_pwd"><u>Forgot Password?</u></string>
+
+    <string name="facebook_app_id">227777271148071</string>
+    <string name="facebook_login_protocol_name">fb227777271148071</string>
+</resources>

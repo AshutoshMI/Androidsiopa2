@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "986042479521",
+    "firebase_url": "https://androidsiopa2.firebaseio.com",
+    "project_id": "androidsiopa2",
+    "storage_bucket": "androidsiopa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986042479521:android:dadb5af610a1641c",
+        "android_client_info": {
+          "package_name": "siopa.ashu.androidsiopa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986042479521-6qpn3khantudk6ps641dqdl3bcn1ni2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "siopa.ashu.androidsiopa",
+            "certificate_hash": "5d95f89794b121e85cb9ddfec6664fc2b4bd6475"
+          }
+        },
+        {
+          "client_id": "986042479521-dm4ufbs7nif9drfucpp5i1mjprds8978.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDalUWr7c3q_-DJV_h6S7InFSK1jjXQ9j4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986042479521-dm4ufbs7nif9drfucpp5i1mjprds8978.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
